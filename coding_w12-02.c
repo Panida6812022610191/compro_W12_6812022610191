@@ -8,7 +8,7 @@
         int a = 5, b = 10;
         printf("Before swap: a = %d, b = %d\n", a, b);
         swap(&a, &b);
-        // แสดงค่าหลังสลับ
+        
         printf("After  swap: a = %d, b = %d\n", a, b);
         return 0;
     }

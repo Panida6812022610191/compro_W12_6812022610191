@@ -5,6 +5,6 @@ int main() {
     ptr = &x; 
     printf("Before: x = %d\n", x);
  *ptr = 20; 
- printf("After : x = %d\n", x);  // แสดงค่าหลังเปลี่ยน
+ printf("After : x = %d\n", x);  
     return 0;
 }

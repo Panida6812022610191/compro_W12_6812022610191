@@ -14,7 +14,7 @@ int main() {
     }
     printf("\n");
     doubleArray(a, size);
-    // แสดงค่าหลังคูณ
+    
     printf("After : ");
     for (int i = 0; i < size; i++) {
         printf("%d ", a[i]);
